@@ -1,0 +1,35 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+color: hwb(240 38% 3%);
+}
+.para{
+    font-style: italic;
+    font-weight: bolder;
+color: #5ff55f; 
+text-transform: capitalize;
+line-height: 30px;
+}
+#headingId{
+    color: rgb(248, 76, 76); 
+
+}
+#paraId{
+    color: orange; 
+
+}
+li{
+    background-color: hsl(0, 89%, 69%);
+}
+.secondList{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 25px;
+    text-shadow: 1px 1px;
+
+}
+li:hover{
+    color: blue;
+     cursor: pointer;
+}
